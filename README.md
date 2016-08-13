@@ -1,2 +1,1 @@
-# escape_pcb
-Hardware designs for the ESCAPE board
+Placeholder for the Escape board hardware files
